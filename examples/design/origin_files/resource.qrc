@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="main_icon.png">main_icon.png</file>
+    <file>main_icon.ico</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
